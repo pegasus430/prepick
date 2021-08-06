@@ -1,19 +1,6 @@
-Learn Rails
+Soccer Betting Website
 ============================================
 
-This is an example Rails 4.0 application to accompany the "Learn Rails" book.
+This is an website which works like www.premiumpick.co.uk.com.
+Python scrappers are running to collect the data from worldfootball.net and oddsportal.com.
 
-See the "Learn Rails" book:
-http://learn-rails.com/
-
-________________________
-
-For more information, please see the updated README file on GitHub:
-
-https://github.com/railsapps/learn-rails
-
-________________________
-
-MIT License
-
-http://www.opensource.org/licenses/mit-license
